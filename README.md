@@ -12,3 +12,6 @@ Now In the dataset received, the wav files ane in 2 formats.
 In using the dialogue format the wav file generate a large number of audio vectors and it is not fesiable to use it because of memory constraints. So that, in simple way, I have copied all the sentence wav file in a single folder which makes code easier and make wav files easier to access.
 
 I have take 4 emotions namely Anger, Sadness, Happiness and Sadness and tried to separate the python files or jupyter notebook for small tasks like, extracting the audio feature vectors, generating the spectrograms, and finally use 1D CNN to recognize the emotion. 
+
+If you directly want to create models then you can use the dataset from here. 
+[Kaggle IEMOCAP DATASET](https://www.kaggle.com/aditya310794/iemocap-audio-vectors-csv/notebooks)
